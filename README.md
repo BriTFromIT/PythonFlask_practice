@@ -37,4 +37,4 @@ Also, please include the instructions necessary to...
         * We use pip install
 * Use your subject.
     * Do I need to include it in my HTML with <script> tags? Do I need to brew install anything? Can I deploy it to Heroku?
-        - No we import in python file, we use pip to install, yes it can be deployed.
+        - No we import in python file, we use pip to install, no because it is a back-end framework.
