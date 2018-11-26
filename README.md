@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/BriTFromIT/PythonFlask_practice/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BriTFromIT/PythonFlask_practice/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Python Flask
+## Why did you choose this subject?
+  * How were you first made aware of it?
+    - It’s on the list, I also just wanna get into Python early…
+  * What problem does it solve?
+    - Database interaction and ease of use
+  * How does it solve the problem (conceptually)?
+    - Python is meant to be easy to read and understand. Flask is a framework allowing you to have more control over database interactions. 
+  * Why does one use it?
+    - It is used to interact with MongoDB and manipulate database operations.
+## What are the alternatives?
+  - Django
+  - Zone
+  - Plone
+* What is it similar to, if anything?
+    - Express (We’re dealing with back end)
+## What is the history of this technology?
+  * Who built it and why?
+    - Armin Ronacher, originally meant to release as April fools joke
+  * Who is maintaining it?
+    -The Pallets Projects (community-driven)    
+  * What is your opinion on the technology after having built something with it?
+    - Fairly straight-forward!
+* What are the biggest conceptual hurdles (if any) you encountered when researching this?
+    - Gotta know more about Python, but it lets me know of a great alternative to Django right off the bat
+## What resources do you recommend for interested students?
+    * What article or forum was most helpful to you in learning this?
+        - Youtube
+        - Flask docs
+        - FullStackPython.com
+## What are 3 interview questions one might be asked about this technology?
+    - What are the benefits of Flask over Django?
+    - What is Flask used for?
+Also, please include the instructions necessary to...
+* Run your example.
+    * Do I need to run bower install? Do I need an API key?
+        * We use pip install
+* Use your subject.
+    * Do I need to include it in my HTML with <script> tags? Do I need to brew install anything? Can I deploy it to Heroku?
+        - No we import in python file, we use pip to install, yes it can be deployed.
